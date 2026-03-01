@@ -1,5 +1,5 @@
 # AussieKiwi-Adeubanks-2024-Expansion-DisseRtation
-This is a repo for the project "disseRtation" by adeubanks. 
+This is a repo for the project "Adeubanks-2024-Expansion-DisseRtation" which attempts to reproduce and expand the repo "disseRtation" by adeubanks. 
 
 This project expands upon Austin Eubanks' research of cognitive dissonance in the 2016 and 2020 elections by including ANES data from 2024.
 For his written paper follow this [Link](https://osf.io/9frup/)
